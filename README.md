@@ -1,6 +1,9 @@
 ﻿> [!CAUTION]
 > # [VmbPy](https://github.com/alliedvision/VmbPy) is the successor of VimbaPython and is actively maintained. VimbaPython is no longer actively developed and not recommended for new projects. It is therefore archived.
 
+## Vimba Python Adjusted API
+Modified API to run under python version 2.
+
 ## Vimba Python API
 Vimba Python API is contained in Allied Vision's Vimba Suite as of Vimba 4.0. We provide VimbaPython on GitHub additionally.   
 Vimba runs on Windows, Linux, and ARM and also contains C, C++, and .NET APIs. Vimba contains extensive documentation and examples for each API.
